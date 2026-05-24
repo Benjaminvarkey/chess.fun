@@ -9,7 +9,7 @@ class Board:
         for rows in range(ROWS):
             for cols in range(CLS):
                 self.square[rows][cols]=Square(rows,cols)
-    def _addpeice(self,color):
+    def _addpiece(self,color):
         pass
 
         
