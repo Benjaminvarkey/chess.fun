@@ -1,0 +1,9 @@
+#Screen dimensions
+WIDTH=800
+HEIGHT=800
+#board 
+ROWS=8
+CLS=8
+SQSIZE=WIDTH//ROWS
+
+
